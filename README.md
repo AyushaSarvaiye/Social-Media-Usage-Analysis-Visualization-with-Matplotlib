@@ -1,6 +1,8 @@
 **Social Media Usage Analysis & Visualization with Matplotlib**
 
-#DataSet --
+#DataSet -- https://github.com/AyushaSarvaiye/Social-Media-Usage-Analysis-Visualization-with-Matplotlib/blob/main/Social%20Media.csv
+
+#CodeFile -- 
 
 This project analyzes social media usage data across different countries and visualizes insights using Python’s Matplotlib library. It demonstrates exploratory data analysis (EDA) and multiple chart types, including bar plots, pie charts, and treemaps.
 
